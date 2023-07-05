@@ -1,3 +1,10 @@
+![Form](https://github.com/teodoraspirovska/Data-Entry-Job-Automation/blob/main/images/Form.png?raw=true)
+![Submit](https://github.com/teodoraspirovska/Data-Entry-Job-Automation/blob/main/images/Submit.png?raw=true)
+![Google Sheet](https://github.com/teodoraspirovska/Data-Entry-Job-Automation/blob/main/images/Google%20Sheet.png?raw=true)
+
+
+
+
 # Data-Entry-Job-Automation
 This project retrieves rental property information from Zillow for a specific location, extracts relevant data such as addresses, prices, and links, and submits this information to a Google Form using Selenium automation.
 # What I have learned
